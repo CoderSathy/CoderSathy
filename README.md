@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sulav Parajuli aka @CoderSathy
+- 👀 I’m interested in writing codes esp. java, kotlin and dart.
+- 🌱 I’m currently learning Flutter and Machine Learning.
